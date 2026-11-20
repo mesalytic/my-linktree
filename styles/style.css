@@ -1,0 +1,17 @@
+body {
+    background-color: blueviolet;
+}
+
+img {
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+    width: 150px;
+    height: auto; /* keep OG proportions */
+}
+
+#btn-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
