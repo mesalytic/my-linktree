@@ -1,5 +1,7 @@
 body {
-    background-color: blueviolet;
+    background: linear-gradient(0.30turn, #4e0aa2, #000000);
+    background-repeat: no-repeat;
+    /*background-*/
 }
 
 img {
